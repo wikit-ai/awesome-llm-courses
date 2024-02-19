@@ -10,7 +10,7 @@
 	- [🧑‍🔬 The LLM Scientist](https://github.com/mlabonne/llm-course#-the-llm-scientist)
 	- [👷 The LLM Engineer](https://github.com/mlabonne/llm-course#-the-llm-engineer)
 - [Short Courses – DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
-	- [Building Applications with Vector Databases – Pinecone](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/) – 1 hour – Beginner
+	- [Serverless LLM apps with Amazon Bedrock – AWS](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/) – 1 hour – Intermediate
 	- [ChatGPT Prompt Engineering for Developers – OpenAI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) – 1 hour – Beginner to Advanced
 	- [Building Systems with the ChatGPT API – OpenAI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) – 1 hour – Beginner to Advanced
 	- [LangChain for LLM Application Development – LangChain](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) – 1 hour – Beginner
@@ -109,3 +109,6 @@
 	11. [Fireside Chat with Peter Welinder](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/welinder-fireside-chat/)
 - Freecodecamp
 	- [Learn LangChain.js - Build LLM apps with JavaScript and OpenAI](https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/) [YouTube](https://www.youtube.com/watch?v=HSZ_uaif57o) – Approx. 1 hour 30 minutes
+- DAIR.AI
+	- [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) – Intermediate
+	- [Prompt Engineering Course](https://www.promptingguide.ai/)
