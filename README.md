@@ -10,6 +10,8 @@
 	- [🧑‍🔬 The LLM Scientist](https://github.com/mlabonne/llm-course#-the-llm-scientist)
 	- [👷 The LLM Engineer](https://github.com/mlabonne/llm-course#-the-llm-engineer)
 - [Short Courses – DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+	- [Efficiently Serving LLMs – Predibase](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/) – 1 hour – Intermediate
+	- [Knowledge Graphs for RAG – Neo4j](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/) – 1 hour – Intermediate
 	- [Serverless LLM apps with Amazon Bedrock – AWS](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/) – 1 hour – Intermediate
 	- [ChatGPT Prompt Engineering for Developers – OpenAI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) – 1 hour – Beginner to Advanced
 	- [Building Systems with the ChatGPT API – OpenAI](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) – 1 hour – Beginner to Advanced
