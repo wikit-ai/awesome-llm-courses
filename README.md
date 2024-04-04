@@ -10,6 +10,8 @@
 	- [🧑‍🔬 The LLM Scientist](https://github.com/mlabonne/llm-course#-the-llm-scientist)
 	- [👷 The LLM Engineer](https://github.com/mlabonne/llm-course#-the-llm-engineer)
 - [Short Courses – DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+	- [Red Teaming LLM Applications – Giskard](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) – 1 hour – Beginner
+	- [JavaScript RAG Web Apps with LlamaIndex](https://www.deeplearning.ai/short-courses/javascript-rag-web-apps-with-llamaindex/) – 1 hour – Beginner
 	- [Efficiently Serving LLMs – Predibase](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/) – 1 hour – Intermediate
 	- [Knowledge Graphs for RAG – Neo4j](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/) – 1 hour – Intermediate
 	- [Serverless LLM apps with Amazon Bedrock – AWS](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/) – 1 hour – Intermediate
