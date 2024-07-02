@@ -3,13 +3,35 @@
 
 > A curated list of awesome online courses about Large Langage Models (LLMs).
 
-- HuggingFace
-	- [🤗 Course](https://huggingface.co/learn/nlp-course/chapter0/1)
+We try to monitor free available online courses about LLMs. Please open a PR or an issue if you want to suggest a list update 🤓
+
+- 🤗 Hugging Face
+	- [NLP Course](https://huggingface.co/learn/nlp-course/)
+	- [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/) (cf. [Unit 4 about Multimodal & Vision Language Models 🌐📚👁️](https://huggingface.co/learn/computer-vision-course/unit4/multimodal-models/pre-intro))
 - [🗣️ Large Language Model Course – Maxime Labonne](https://github.com/mlabonne/llm-course)
 	- [🧩 LLM Fundamentals](https://github.com/mlabonne/llm-course#-llm-fundamentals)
 	- [🧑‍🔬 The LLM Scientist](https://github.com/mlabonne/llm-course#-the-llm-scientist)
 	- [👷 The LLM Engineer](https://github.com/mlabonne/llm-course#-the-llm-engineer)
-- [Short Courses – DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+- Udacity
+	- [Introduction to Large Language Models with Google Cloud](https://www.udacity.com/course/introduction-large-language-models-google-cloud--cd12959) – 45 Minutes – Beginner
+	- [LLMOps: Building Real-World Applications With Large Language Models](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) – 11 Hours – Intermediate
+- [DeepLearning.AI – Short Courses](https://www.deeplearning.ai/short-courses/)
+	- [Carbon Aware Computing for GenAI Developers – Google Cloud](https://www.deeplearning.ai/short-courses/carbon-aware-computing-for-genai-developers) – 1 Hour – Beginner
+	- [Function-Calling and Data Extraction with LLMs – Nexusflow](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms) – 1 Hour – Intermediate
+	- [Building Your Own Database Agent – Microsoft](https://www.deeplearning.ai/short-courses/building-your-own-database-agent) – 1 Hour – Beginner
+	- [AI Agents in LangGraph – LangChain, Tavily](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph) – 1 Hour – Intermediate
+	- [AI Agentic Design Patterns with AutoGen – Microsoft, Penn State University](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen) – 1 Hour – Beginner
+	- [Introduction to On-Device AI – Qualcomm](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai) – 1 Hour – Beginner
+	- [Multi AI Agent Systems with crewAI – crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai) – 1 Hour – Beginner
+	- [Building Multimodal Search and RAG – Weaviate](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag) – 1 Hour – Intermediate
+	- [Building Agentic RAG with LlamaIndex – LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex) – 1 Hour – Beginner
+	- [Quantization in Depth – Hugging Face](https://www.deeplearning.ai/short-courses/quantization-in-depth) – 1 Hour – Intermediate
+	- [Prompt Engineering for Vision Models – Comet](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models) – 1 Hour – Beginner
+	- [Getting Started With Mistral – Mistral AI](https://www.deeplearning.ai/short-courses/getting-started-with-mistral) – 1 Hour – Beginner
+	- [Quantization Fundamentals with Hugging Face – Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face) – 1 Hour – Beginner
+	- [Preprocessing Unstructured Data for LLM Applications – Unstructured](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications) – 1 Hour – Beginner
+	- [Open Source Models with Hugging Face – Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face) – 1 Hour – Beginner
+	- [Prompt Engineering with Llama 2 & 3 – Meta](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2) – 1 Hour – Beginner
 	- [Red Teaming LLM Applications – Giskard](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/) – 1 hour – Beginner
 	- [JavaScript RAG Web Apps with LlamaIndex](https://www.deeplearning.ai/short-courses/javascript-rag-web-apps-with-llamaindex/) – 1 hour – Beginner
 	- [Efficiently Serving LLMs – Predibase](https://www.deeplearning.ai/short-courses/efficiently-serving-llms/) – 1 hour – Intermediate
@@ -116,3 +138,9 @@
 - DAIR.AI
 	- [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) – Intermediate
 	- [Prompt Engineering Course](https://www.promptingguide.ai/)
+- The Chinese University of HongKong, Shenzhen
+	- [CSC 6201/CIE 6021 Large Language Models](https://llm-course.github.io/) – Slides from 10 lectures
+- [NVIDIA – Self-Paced Courses](https://learn.nvidia.com/en-us/training/self-paced-courses)
+	- [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) – 2 Hours – Technical - Beginner
+	- [Augmenting LLMs using Retrieval Augmented Generation](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1) – 1 Hour – Technical - Beginner
+	- [Building RAG Agents for LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) – 8 Hours – Technical - Intermediate
