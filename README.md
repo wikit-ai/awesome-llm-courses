@@ -8,6 +8,10 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 - 🤗 Hugging Face
 	- [NLP Course](https://huggingface.co/learn/nlp-course/)
 	- [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course/) (cf. [Unit 4 about Multimodal & Vision Language Models 🌐📚👁️](https://huggingface.co/learn/computer-vision-course/unit4/multimodal-models/pre-intro))
+- [CodeSignal](https://learn.codesignal.com/course-paths) – Selected LLM/NLP course paths with Cosmo, the AI tutor 🐶✨
+	- [Understanding LLMs and Basic Prompting Techniques](https://learn.codesignal.com/preview/course-paths/16) — 5 lessons — 15 practices — Intermediate
+	- [Introduction to Natural Language Processing](https://learn.codesignal.com/preview/course-paths/42) – 4 courses – 78 practices – Intermediate
+	- [Text Classification with Natural Language Processing](https://learn.codesignal.com/preview/course-paths/24) – 4 courses – 110 practices – Advanced
 - [🗣️ Large Language Model Course – Maxime Labonne](https://github.com/mlabonne/llm-course)
 	- [🧩 LLM Fundamentals](https://github.com/mlabonne/llm-course#-llm-fundamentals)
 	- [🧑‍🔬 The LLM Scientist](https://github.com/mlabonne/llm-course#-the-llm-scientist)
@@ -16,6 +20,8 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [Introduction to Large Language Models with Google Cloud](https://www.udacity.com/course/introduction-large-language-models-google-cloud--cd12959) – 45 Minutes – Beginner
 	- [LLMOps: Building Real-World Applications With Large Language Models](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) – 11 Hours – Intermediate
 - [DeepLearning.AI – Short Courses](https://www.deeplearning.ai/short-courses/)
+	- [Pretraining LLMs – Upstage](https://www.deeplearning.ai/short-courses/pretraining-llms/) – 1 Hour – Beginner
+	- [Prompt Compression and Query Optimization – MongoDB](https://www.deeplearning.ai/short-courses/prompt-compression-and-query-optimization/) – 1 Hour – Intermediate
 	- [Carbon Aware Computing for GenAI Developers – Google Cloud](https://www.deeplearning.ai/short-courses/carbon-aware-computing-for-genai-developers) – 1 Hour – Beginner
 	- [Function-Calling and Data Extraction with LLMs – Nexusflow](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms) – 1 Hour – Intermediate
 	- [Building Your Own Database Agent – Microsoft](https://www.deeplearning.ai/short-courses/building-your-own-database-agent) – 1 Hour – Beginner
