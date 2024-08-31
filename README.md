@@ -150,3 +150,13 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) – 2 Hours – Technical - Beginner
 	- [Augmenting LLMs using Retrieval Augmented Generation](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1) – 1 Hour – Technical - Beginner
 	- [Building RAG Agents for LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) – 8 Hours – Technical - Intermediate
+- [Weaviate Academy](https://weaviate.io/developers/academy)
+	- [PY_101T: Text data with Weaviate](https://weaviate.io/developers/academy/py/starter_text_data) – Python – Project-based
+	- [PY_101V: Your own vectors with Weaviate](https://weaviate.io/developers/academy/py/starter_custom_vectors) – Python – Project-based
+	- [PY_101M: Multimodal data with Weaviate](https://weaviate.io/developers/academy/py/starter_multimodal_data) – Python – Project-based
+	- [PY_220: Flexible data representation: Named vectors](https://weaviate.io/developers/academy/py/named_vectors) – Python – Project-based
+	- [PY_230: Vector indexes](https://weaviate.io/developers/academy/py/vector_index) – Python
+	- [PY_250: Vector compression for improved efficiency](https://weaviate.io/developers/academy/py/compression) – Python
+	- [PY_275: Text tokenization](https://weaviate.io/developers/academy/py/tokenization) – Python
+	- [PY_280: Multi-tenancy](https://weaviate.io/developers/academy/py/multitenancy) – Python
+	- [TS_100: Intro to Weaviate with TypeScript (or JavaScript)](https://weaviate.io/developers/academy/js/intro_weaviate_typescript) – TypeScript – Project-based
