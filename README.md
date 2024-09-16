@@ -18,7 +18,18 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [👷 The LLM Engineer](https://github.com/mlabonne/llm-course#-the-llm-engineer)
 - Udacity
 	- [Introduction to Large Language Models with Google Cloud](https://www.udacity.com/course/introduction-large-language-models-google-cloud--cd12959) – 45 Minutes – Beginner
+	- [Introduction to Gen AI Studio with Google Cloud](https://www.udacity.com/course/introduction-to-generative-ai-studio-with-google-cloud--cd13292) – 20 Hours — Beginner
+	- [Introduction to Gemini for Google Workspace](https://www.udacity.com/course/introduction-to-duet-AI-in-google-workspace--cd13517) – 1 Day – Beginner
+	- [Introduction to Image Generation with Google Cloud](https://www.udacity.com/course/introduction-image-generation-google-cloud--cd12982) – 1 Day – Intermediate
+	- [Generative AI Fundamentals with Google Cloud](https://www.udacity.com/course/generative-ai-fundamentals-for-google-cloud--cd13291) – 4 Days – Beginner
+	- [Gemini in Gmail](https://www.udacity.com/course/duet-AI-in-gmail--cd13518) – 1 Day – Beginner
+	- [Gemini in Google Docs](https://www.udacity.com/course/gemini-in-google-docs--cd13677) – 1 Day – Beginner
+	- [Gemini in Google Meet](https://www.udacity.com/course/duet-AI-in-google-meet--cd13540) – 1 Day – Beginner
+	- [Gemini in Google Sheets](https://www.udacity.com/course/duet-AI-in-google-sheets--cd13542) – 1 Day – Beginner
+	- [Gemini in Google Slides](https://www.udacity.com/course/duet-AI-in-google-slides--cd13543) – 1 Day – Beginner
+	- [Gemini API by Google](https://www.udacity.com/course/gemini-API-by-google--cd13416) – 3 Days – Intermediate
 	- [LLMOps: Building Real-World Applications With Large Language Models](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) – 11 Hours – Intermediate
+	- [Transformer Models and BERT Model with Google Cloud](https://www.udacity.com/course/transformer-models-bert-model-google-cloud--cd12969) – 1 Day – Beginner
 - [DeepLearning.AI – Short Courses](https://www.deeplearning.ai/short-courses/)
 	- [Pretraining LLMs – Upstage](https://www.deeplearning.ai/short-courses/pretraining-llms/) – 1 Hour – Beginner
 	- [Prompt Compression and Query Optimization – MongoDB](https://www.deeplearning.ai/short-courses/prompt-compression-and-query-optimization/) – 1 Hour – Intermediate
@@ -65,6 +76,8 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [Pair Programming with a Large Language Model – Google](https://www.deeplearning.ai/short-courses/pair-programming-llm/) – 1 hour – Beginner
 	- [Understanding and Applying Text Embeddings – Google Cloud](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/) – 1 hour – Beginner
 	- [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel – Microsoft](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/) – 1 hour – Beginner
+- 🦜🔗 LangChain Academy
+	- [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) – 40 lessons – 4 hours of video content
 - Cohere
 	- [LLM University by Cohere](https://docs.cohere.com/docs/llmu)
 - [Become an AI Developer – DataCamp](https://www.datacamp.com/ai-code-alongs)
@@ -80,6 +93,10 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 - EdX
 	- [Databricks: Large Language Models: Application through Production](https://www.edx.org/learn/computer-science/databricks-large-language-models-application-through-production) – 6 weeks – 4-10 hours per week
 	- [Databricks: Large Language Models: Foundation Models from the Ground Up](https://www.edx.org/learn/computer-science/databricks-large-language-models-foundation-models-from-the-ground-up) – 4 weeks – 4-8 hours per week
+	- [IBM: Introduction to Generative AI](https://www.edx.org/learn/computer-science/ibm-introduction-to-generative-ai)
+	- [IBM: Introduction to Prompt Engineering](https://www.edx.org/learn/artificial-intelligence/ibm-introduction-to-prompt-engineering) – 3 weeks – 1-3 hours per week
+	- [IBM: Models and Platforms for Generative AI](https://www.edx.org/learn/artificial-intelligence/ibm-generative-ai-models-and-platforms) – 3 weeks – 1-3 hours per week
+	- [IBM: Developing Generative AI Applications with Python](https://www.edx.org/learn/artificial-intelligence/ibm-developing-generative-ai-applications-with-python) – 6 weeks – 1–2 hours per week
 - Coursera
 	- [Introduction to Large Language Models – Google Cloud](https://www.coursera.org/learn/introduction-to-large-language-models) – Approx. 1 hour – Beginner
 	- [Encoder-Decoder Architecture – Google Cloud](https://www.coursera.org/learn/encoder-decoder-architecture) – Approx. 1 hour – Advanced
@@ -160,3 +177,5 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [PY_275: Text tokenization](https://weaviate.io/developers/academy/py/tokenization) – Python
 	- [PY_280: Multi-tenancy](https://weaviate.io/developers/academy/py/multitenancy) – Python
 	- [TS_100: Intro to Weaviate with TypeScript (or JavaScript)](https://weaviate.io/developers/academy/js/intro_weaviate_typescript) – TypeScript – Project-based
+- [Web Security Academy](https://portswigger.net/web-security) by Portswigger (the creators of Burp Suit)
+	- [Web LLM attacks](https://portswigger.net/web-security/llm-attacks) – Short course + 4 labs
