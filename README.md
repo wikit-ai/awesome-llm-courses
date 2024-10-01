@@ -31,6 +31,13 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [LLMOps: Building Real-World Applications With Large Language Models](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455) – 11 Hours – Intermediate
 	- [Transformer Models and BERT Model with Google Cloud](https://www.udacity.com/course/transformer-models-bert-model-google-cloud--cd12969) – 1 Day – Beginner
 - [DeepLearning.AI – Short Courses](https://www.deeplearning.ai/short-courses/)
+	- [Multimodal RAG: Chat with Videos – Intel](https://www.deeplearning.ai/short-courses/multimodal-rag-chat-with-videos/) – 1 Hour – Intermediate
+	- [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) – 4-5 Hours – Beginner
+	- [Large Multimodal Model Prompting with Gemini – Google Cloud](https://www.deeplearning.ai/short-courses/large-multimodal-model-prompting-with-gemini/) – 2 Hours – Beginner
+	- [Building AI Applications with Haystack](https://www.deeplearning.ai/short-courses/building-ai-applications-with-haystack/) – 1 Hour – Intermediate
+	- [Improving Accuracy of LLM Applications – Lamini and Meta](https://www.deeplearning.ai/short-courses/improving-accuracy-of-llm-applications/) – 1x Hour – Intermediate
+	- [Embedding Models: From Architecture to Implementation – Vectara](https://www.deeplearning.ai/short-courses/embedding-models-from-architecture-to-implementation/) – 1 Hour – Beginner
+	- [Federated Learning – Flower](https://www.deeplearning.ai/short-courses/intro-to-federated-learning/) – 2 Hours – Beginner to Intermediate
 	- [Pretraining LLMs – Upstage](https://www.deeplearning.ai/short-courses/pretraining-llms/) – 1 Hour – Beginner
 	- [Prompt Compression and Query Optimization – MongoDB](https://www.deeplearning.ai/short-courses/prompt-compression-and-query-optimization/) – 1 Hour – Intermediate
 	- [Carbon Aware Computing for GenAI Developers – Google Cloud](https://www.deeplearning.ai/short-courses/carbon-aware-computing-for-genai-developers) – 1 Hour – Beginner
@@ -79,7 +86,7 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 - 🦜🔗 LangChain Academy
 	- [Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph) – 40 lessons – 4 hours of video content
 - Cohere
-	- [LLM University by Cohere](https://docs.cohere.com/docs/llmu)
+	- [LLM University by Cohere](https://cohere.com/llmu)
 - [Become an AI Developer – DataCamp](https://www.datacamp.com/ai-code-alongs)
 	- [Introduction to Large Language Models with GPT & LangChain](https://www.datacamp.com/code-along/introduction-to-large-language-models-gpt-langchain)
 	- [Prompt Engineering with GPT & LangChain](https://www.datacamp.com/code-along/prompt-engineering-gpt-langchain)
@@ -102,27 +109,23 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [Encoder-Decoder Architecture – Google Cloud](https://www.coursera.org/learn/encoder-decoder-architecture) – Approx. 1 hour – Advanced
 	- [Build a Chat Application using the PaLM 2 API on Cloud Run – Google Cloud](https://www.coursera.org/projects/googlecloud-build-a-chat-application-using-the-palm-2-api-on-cloud-run-g4pjb) – Project – 90 minutes – Intermediate
 	- [Generative AI with Large Language Models – AWS](https://www.coursera.org/learn/generative-ai-with-llms) – Approx. 16 hours – Intermediate
-- [Scrimba Courses Library – Artificial Intelligence](https://scrimba.com/allcourses?topic=ai)
-	- [The AI Engineer Path](https://scrimba.com/learn/aiengineer) – Intermediate
-	- [Learn OpenAI's Assistants API](https://scrimba.com/learn/openaiassistants) – Intermediate
-	- [Intro to AI Engineering](https://scrimba.com/learn/introtoaiengineering) – Intermediate
-	- [Learn Embeddings and Vector Databases](https://scrimba.com/learn/embeddings) – Intermediate
-	- [Learn AI Agents](https://scrimba.com/learn/aiagents) – Intermediate
-	- [Prompt Engineering for Web Developers](https://scrimba.com/learn/promptengineering) – Intermediate
-	- [Learn to code with AI](https://scrimba.com/learn/aicoding) – Beginner
-	- [Build AI Apps with ChatGPT, DALL-E and GPT-4](https://scrimba.com/learn/buildaiapps) – Intermediate
-	- [The Official LangChain.js Course](https://scrimba.com/learn/langchain) – Intermediate
-- [W&B](https://www.wandb.courses/pages/w-b-courses)
-	- [LLM Engineering: Structured Outputs](https://www.wandb.courses/courses/steering-language-models)
-	- [Building LLM-Powered Apps](https://www.wandb.courses/courses/building-llm-powered-apps)
-	- [Training and Fine-tuning Large Language Models (LLMs)](https://www.wandb.courses/courses/training-fine-tuning-LLMs)
-	- [Enterprise Model Management](https://www.wandb.courses/courses/enterprise-model-management)
-	- [Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development)
-	- [CI/CD for Machine Learning (GitOps)](https://www.wandb.courses/courses/ci-cd-for-machine-learning)
-	- [Data Validation in Production ML Pipelines](https://www.wandb.courses/courses/data-validation-for-machine-learning)
-	- [Machine Learning for Business Decision Optimization](https://www.wandb.courses/courses/decision-optimization)
-	- [W&B 101](https://www.wandb.courses/courses/wandb-101)
-	- [W&B 201: Model Registry](https://www.wandb.courses/courses/201-model-registry)
+- [Scrimba Courses Library – Artificial Intelligence](https://v2.scrimba.com/t0ai)
+	- [Build AI Apps with ChatGPT, DALL-E and GPT-4](https://v2.scrimba.com/build-ai-apps-with-chatgpt-dall-e-and-gpt-4-c01) – 4.6 Hours – Intermediate
+	- [Deploy AI apps with Cloudflare](https://v2.scrimba.com/deploy-ai-apps-with-cloudflare-c037) – 50 Minutes – Intermediate
+	- [Intro to AI Engineering](https://v2.scrimba.com/intro-to-ai-engineering-c032) – 90 Minutes – Intermediate
+	- [Intro to AI Engineering](https://v2.scrimba.com/intro-to-ai-engineering-c032) – 90 Minutes – Intermediate
+	- [Intro to Mistral AI](https://v2.scrimba.com/intro-to-mistral-ai-c035) – 84 Minutes – Intermediate
+	- [Learn LangChain.js](https://v2.scrimba.com/learn-langchainjs-c02t) – 94 Minutes – Intermediate
+	- [Learn OpenAI's Assistants API](https://v2.scrimba.com/learn-openais-assistants-api-c030) – 30 Minutes – Intermediate
+	- [Learn to code with AI](https://v2.scrimba.com/learn-to-code-with-ai-c02m) – 4.5 Hours – Beginner
+	- [Prompt Engineering for Web Developers](https://v2.scrimba.com/prompt-engineering-for-web-developers-c02o) – 3.1 Hours – Intermediate
+- [W&B AI Academy](https://www.wandb.courses/pages/w-b-courses)
+	- [RAG++ : From POC to Production](https://www.wandb.courses/courses/rag-in-production) – 75 lessons – 2 hours of video content
+	- [Developer's guide to LLM prompting](https://www.wandb.courses/courses/prompting) – 25 lessons – 1 hour of video content
+	- [LLM Engineering: Structured Outputs](https://www.wandb.courses/courses/steering-language-models) – 34 lessons — 1 hour of video content
+	- [Building LLM-Powered Apps](https://www.wandb.courses/courses/building-llm-powered-apps) – 31 lessons – 2 hours of video content
+	- [Training and Fine-tuning Large Language Models (LLMs)](https://www.wandb.courses/courses/training-fine-tuning-LLMs) – 37 lessons – 4 hours of video content
+	- [Enterprise Model Management](https://www.wandb.courses/courses/enterprise-model-management) – Cover end-to-end model lifecycle. Include LLM Case Study – 25 lessons – 2.5 hours of video content
 - Google Cloud Skills Boost
     - [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 		- [01 Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118/course_templates/536) – Introductory
