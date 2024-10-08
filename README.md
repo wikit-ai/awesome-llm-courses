@@ -182,3 +182,9 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [TS_100: Intro to Weaviate with TypeScript (or JavaScript)](https://weaviate.io/developers/academy/js/intro_weaviate_typescript) – TypeScript – Project-based
 - [Web Security Academy](https://portswigger.net/web-security) by Portswigger (the creators of Burp Suit)
 	- [Web LLM attacks](https://portswigger.net/web-security/llm-attacks) – Short course + 4 labs
+- [Neo4j Generative AI Courses](https://graphacademy.neo4j.com/categories/generative-ai/)
+	- [Neo4j & LLM Fundamentals](https://graphacademy.neo4j.com/courses/llm-fundamentals/) – 4 Hours
+	- [Introduction to Vector Indexes and Unstructured Data](https://graphacademy.neo4j.com/courses/llm-vectors-unstructured/) – 2 Hours
+	- [Build a Neo4j-backed Chatbot using Python](https://graphacademy.neo4j.com/courses/llm-chatbot-python/) – 2 Hours - Feat. Langchain and Streamlit
+	- [Build a Neo4j-backed Chatbot with TypeScript](https://graphacademy.neo4j.com/courses/llm-chatbot-typescript/) – 6 Hours - Feat. Langchain and Next.js
+	- [Building Knowledge Graphs with LLMs](https://graphacademy.neo4j.com/courses/llm-knowledge-graph-construction/) – 2 Hours
