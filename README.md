@@ -188,3 +188,5 @@ We try to monitor free available online courses about LLMs. Please open a PR or 
 	- [Build a Neo4j-backed Chatbot using Python](https://graphacademy.neo4j.com/courses/llm-chatbot-python/) – 2 Hours - Feat. Langchain and Streamlit
 	- [Build a Neo4j-backed Chatbot with TypeScript](https://graphacademy.neo4j.com/courses/llm-chatbot-typescript/) – 6 Hours - Feat. Langchain and Next.js
 	- [Building Knowledge Graphs with LLMs](https://graphacademy.neo4j.com/courses/llm-knowledge-graph-construction/) – 2 Hours
+- [Learn Agentic Patterns](https://learnagenticpatterns.com)
+	- [21 Agentic AI Design Patterns](https://learnagenticpatterns.com) – Free – Interactive curriculum covering prompt chaining, reflection, tool use, routing, parallelization, planning, and multi-agent patterns with code examples and architecture diagrams
